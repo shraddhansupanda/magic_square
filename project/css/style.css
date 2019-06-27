@@ -1,0 +1,19 @@
+table {
+  table-layout: fixed;
+  width: 40%;
+  border-collapse: collapse;
+  border: 3px solid purple;
+  margin: auto;
+}
+td {
+  padding: 20px;
+}
+button{
+    background:orange;
+    padding: 5px;
+    border-radius: 10px
+    text-align: center;
+}
+input{
+    width: 100%;
+}
