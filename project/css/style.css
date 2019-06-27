@@ -9,11 +9,33 @@ td {
   padding: 20px;
 }
 button{
+    width:100px;
     background:orange;
     padding: 5px;
     border-radius: 10px
     text-align: center;
+    float:right;
+    margin-right:45%;
 }
 input{
     width: 100%;
+}
+body{
+    background:url("../photo/photo.jpg")
+    no-repeat center center fixed
+}
+h1{
+    color:green;
+    text-align:center;
+    border:3px solid red;
+    width:300px;
+    margin:50px auto
+}
+p{
+    color:black;
+    text-align:center;
+    border:3px solid red;
+    width:300px;
+    margin:70px auto
+}
 }
